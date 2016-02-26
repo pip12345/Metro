@@ -7,5 +7,7 @@ Thumbs.db
 *.lk
 *.backup
 data/
-cfg/
+config/*
+!config/example
+!config/names
 build_log.txt
